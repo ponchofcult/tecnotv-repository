@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV 2
-http://tecnotv.club/sep0421/0smartv.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",4/9/2021
-http://tecnotv.club/sep0421/0smartv.php?c=712&f=.m3u8
+http://tecnotv.club/sep14/0smartv.php?c=712&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",12/9/2021
+http://tecnotv.club/sep14/0smartv.php?c=712&f=.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
-http://tecnotv.club/sep0421/0smartv.php?c=712&f=.m3u8
+http://tecnotv.club/sep14/0smartv.php?c=712&f=.m3u8
 
 #EXTINF:-1 logo="http://boomerang-tv.com/gallery/pro-ts1612273194.jpg" group-title="INFANTIL",Boomerang TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
@@ -35,324 +35,624 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 
+#EXTINF:-1 group-title="Lista 04",A&E 
+http://tecnotv.club/sep14/smartv2.php?c=6220
+#EXTINF:-1 group-title="Lista 04",AXN
+http://tecnotv.club/sep14/smartv2.php?c=6222
+#EXTINF:-1 group-title="Lista 04",AMC
+http://tecnotv.club/sep14/smartv2.php?c=6221
+#EXTINF:-1 group-title="Lista 04",CINE CANAL
+http://tecnotv.club/sep14/smartv2.php?c=27
+#EXTINF:-1 group-title="Lista 04",CineMax
+http://tecnotv.club/sep14/smartv2.php?c=6224
+#EXTINF:-1 group-title="Lista 04",HBO
+http://tecnotv.club/sep14/smartv2.php?c=6235
+#EXTINF:-1 group-title="Lista 04",HBO 2
+http://tecnotv.club/sep14/smartv2.php?c=6236
+#EXTINF:-1 group-title="Lista 04",HBO FAMILY
+http://tecnotv.club/sep14/smartv2.php?c=6238
+#EXTINF:-1 group-title="Lista 04",HBO+
+http://tecnotv.club/sep14/smartv2.php?c=6239
+#EXTINF:-1 group-title="Lista 04",HBO POP
+http://tecnotv.club/sep14/smartv2.php?c=83690
+#EXTINF:-1 group-title="Lista 04",HBO EXTREME
+http://tecnotv.club/sep14/smartv2.php?c=83694
+#EXTINF:-1 group-title="Lista 04",HBO MUNDI
+http://tecnotv.club/sep14/smartv2.php?c=83683
+#EXTINF:-1 group-title="Lista 04",HBO SIGNATURE
+http://tecnotv.club/sep14/smartv2.php?c=83692
+#EXTINF:-1 group-title="Lista 04",Golden
+http://tecnotv.club/sep14/smartv2.php?c=58
+#EXTINF:-1 group-title="Lista 04",Golden Premier
+http://tecnotv.club/sep14/smartv2.php?c=59
+#EXTINF:-1 group-title="Lista 04",Golden Plus
+http://tecnotv.club/sep14/smartv2.php?c=60
+#EXTINF:-1 group-title="Lista 04",Space
+http://tecnotv.club/sep14/smartv2.php?c=79
+#EXTINF:-1 group-title="Lista 04",STUDIO UNIVERSAL
+http://tecnotv.club/sep14/smartv2.php?c=80
+#EXTINF:-1 group-title="Lista 04",SYFY
+http://tecnotv.club/sep14/smartv2.php?c=82
+#EXTINF:-1 group-title="Lista 04",SONY CHANNEL
+http://tecnotv.club/sep14/smartv2.php?c=6244
+#EXTINF:-1 group-title="Lista 04",TNT
+http://tecnotv.club/sep14/smartv2.php?c=6247
+#EXTINF:-1 group-title="Lista 04",TNT SERIES
+http://tecnotv.club/sep14/smartv2.php?c=6248
+#EXTINF:-1 group-title="Lista 04",Universal Channel
+http://tecnotv.club/sep14/smartv2.php?c=92
+#EXTINF:-1 group-title="Lista 04",De Pelicula Plus
+http://tecnotv.club/sep14/smartv2.php?c=94
+#EXTINF:-1 group-title="Lista 04",TV AZTECA HONDURAS
+http://tecnotv.club/sep14/smartv2.php?c=6574
+#EXTINF:-1 group-title="Lista 04",TV AZTECA GUATEMALA
+http://tecnotv.club/sep14/smartv2.php?c=87499
+#EXTINF:-1 group-title="Lista 04",AZTECA CORAZON
+http://tecnotv.club/sep14/smartv2.php?c=6905
+#EXTINF:-1 group-title="Lista 04",WIN SPORTS +
+http://tecnotv.club/sep14/smartv2.php?c=33394
+#EXTINF:-1 group-title="Lista 04",24/7
+http://stalkertvlatino.com:8080/play1/play1
+#EXTINF:-1 group-title="Lista 04",NU9VE
+http://tecnotv.club/sep14/smartv2.php?c=56
+#EXTINF:-1 group-title="Lista 04",LAS ESTRELLAS
+http://tecnotv.club/sep14/smartv2.php?c=924
+#EXTINF:-1 group-title="Lista 04",TELEMUNDO
+http://tecnotv.club/sep14/smartv2.php?c=85
+#EXTINF:-1 group-title="Lista 04",BANG BROS
+http://tecnotv.club/sep14/smartv2.php?c=6756
+#EXTINF:-1 group-title="Lista 04",Peliculas 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87513
+#EXTINF:-1 group-title="Lista 04",WARNER BROS TV
+http://tecnotv.club/sep14/smartv2.php?c=6249
+#EXTINF:-1 group-title="Lista 04",PlayBoy HD
+http://tecnotv.club/sep14/smartv2.php?c=6754
+#EXTINF:-1 group-title="Lista 04",XXX HD
+http://tecnotv.club/sep14/smartv2.php?c=6753
+#EXTINF:-1 group-title="Lista 04",Mia khalifa HD
+http://tecnotv.club/sep14/smartv2.php?c=6745
+#EXTINF:-1 group-title="Lista 04",Play House HD
+http://tecnotv.club/sep14/smartv2.php?c=6752
+#EXTINF:-1 group-title="Lista 04",Erotic 5 XXX
+http://tecnotv.club/sep14/smartv2.php?c=87776
+#EXTINF:-1 group-title="Lista 04",Brazzers HD
+http://tecnotv.club/sep14/smartv2.php?c=6759
+#EXTINF:-1 group-title="Lista 04",Play h HD
+http://tecnotv.club/sep14/smartv2.php?c=6755
+#EXTINF:-1 group-title="Lista 04",Peliculas #2 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87516
+#EXTINF:-1 group-title="Lista 04",Peliculas #3 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87519
+#EXTINF:-1 group-title="Lista 04",Peliculas #4 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87520
+#EXTINF:-1 group-title="Lista 04",Peliculas #6 Infantil 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87541
+#EXTINF:-1 group-title="Lista 04",Peliculas #5 24/7
+http://tecnotv.club/sep14/smartv2.php?c=87540
+#EXTINF:-1 group-title="Lista 04",CANALES DE ESPAÑA
+http://srv1.exyu.cc:8080/I0mCeYo60J/eq8SsxyYRv/1276
+#EXTINF:-1 group-title="Lista 04",FX
+http://tecnotv.club/sep14/smartv2.php?c=54
+#EXTINF:-1 group-title="Lista 04",FX
+http://tecnotv.club/sep14/smartv2.php?c=100855
+#EXTINF:-1 group-title="Lista 04",FXM
+http://tecnotv.club/sep14/smartv2.php?c=83618
+#EXTINF:-1 group-title="Lista 04",STAR COMEDY
+http://tecnotv.club/sep14/smartv2.php?c=6227
+#EXTINF:-1 group-title="Lista 04",STAR FUN
+http://tecnotv.club/sep14/smartv2.php?c=6228
+#EXTINF:-1 group-title="Lista 04",STAR HITS
+http://tecnotv.club/sep14/smartv2.php?c=6232
+#EXTINF:-1 group-title="Lista 04",FOX LIFE
+http://tecnotv.club/sep14/smartv2.php?c=6230
+#EXTINF:-1 group-title="Lista 04",STAR LIFE
+http://tecnotv.club/sep14/smartv2.php?c=46
+#EXTINF:-1 group-title="Lista 04",STAR ACTION
+http://tecnotv.club/sep14/smartv2.php?c=83625
+#EXTINF:-1 group-title="Lista 04",STAR CINEMA
+http://tecnotv.club/sep14/smartv2.php?c=83632
+#EXTINF:-1 group-title="Lista 04",STAR SERIES
+http://tecnotv.club/sep14/smartv2.php?c=6233
+#EXTINF:-1 group-title="Lista 04",HBO POP
+http://tecnotv.club/sep14/smartv2.php?c=72
+#EXTINF:-1 group-title="Lista 04",TBS
+http://tecnotv.club/sep14/smartv2.php?c=83
+#EXTINF:-1 group-title="Lista 04",TCM
+http://tecnotv.club/sep14/smartv2.php?c=84
+#EXTINF:-1 group-title="Lista 04",PARAMOUNT NETWORK
+http://tecnotv.club/sep14/smartv2.php?c=6242
+#EXTINF:-1 group-title="Lista 04",TCM
+http://tecnotv.club/sep14/smartv2.php?c=84
+#EXTINF:-1 group-title="Lista 04",SONY CHANNEL
+http://tecnotv.club/sep14/smartv2.php?c=6244
+#EXTINF:-1 group-title="Lista 04",DHE
+http://tecnotv.club/sep14/smartv2.php?c=104192
+#EXTINF:-1 group-title="Lista 04",ULTRA FAMILY
+http://tecnotv.club/sep14/smartv2.php?c=6861
+#EXTINF:-1 group-title="Lista 04",CLARO CINEMA
+http://tecnotv.club/sep14/smartv2.php?c=104191
+#EXTINF:-1 group-title="Lista 04",LIFE TIME
+http://tecnotv.club/sep14/smartv2.php?c=70
+#EXTINF:-1 group-title="Lista 04",BABY TV
+http://tecnotv.club/sep14/smartv2.php?c=6286
+#EXTINF:-1 group-title="Lista 04",BABY FIRST
+http://tecnotv.club/sep14/smartv2.php?c=104196
+#EXTINF:-1 group-title="Lista 04",DISNEY JR.
+http://tecnotv.club/sep14/smartv2.php?c=932
+#EXTINF:-1 group-title="Lista 04",NICK
+http://tecnotv.club/sep14/smartv2.php?c=931
+#EXTINF:-1 group-title="Lista 04",TENN NICK
+http://tecnotv.club/sep14/smartv2.php?c=930
+#EXTINF:-1 group-title="Lista 04",NICK 2
+http://tecnotv.club/sep14/smartv2.php?c=6296
+#EXTINF:-1 group-title="Lista 04",NICK JR.
+http://tecnotv.club/sep14/smartv2.php?c=919
+#EXTINF:-1 group-title="Lista 04",DISCOVERY KITS
+http://tecnotv.club/sep14/smartv2.php?c=922
+#EXTINF:-1 group-title="Lista 04",CARTOON NETWORK
+http://tecnotv.club/sep14/smartv2.php?c=923
+#EXTINF:-1 group-title="Lista 04",CARTOON NETWORK HD
+http://tecnotv.club/sep14/smartv2.php?c=6288
+#EXTINF:-1 group-title="Lista 04",BOOMERANG
+http://tecnotv.club/sep14/smartv2.php?c=6287
+#EXTINF:-1 group-title="Lista 04",DISNEY XD
+http://tecnotv.club/sep14/smartv2.php?c=6292
+#EXTINF:-1 group-title="Lista 04",DISNEY CHANNEL
+http://tecnotv.club/sep14/smartv2.php?c=6290
+#EXTINF:-1 group-title="Lista 04",NATGEO KITS
+http://tecnotv.club/sep14/smartv2.php?c=6293
+#EXTINF:-1 group-title="Lista 04",ULTRA KITS
+http://tecnotv.club/sep14/smartv2.php?c=6864
+#EXTINF:-1 group-title="Lista 04",CANAL 5
+http://tecnotv.club/sep14/smartv2.php?c=6896
+#EXTINF:-1 group-title="Lista 04",CANAL 7
+http://tecnotv.club/sep14/smartv2.php?c=6897
+#EXTINF:-1 group-title="Lista 04",AZTECA UNO
+http://tecnotv.club/sep14/smartv2.php?c=95193
+#EXTINF:-1 group-title="Lista 04",A +
+http://tecnotv.club/sep14/smartv2.php?c=96554
+#EXTINF:-1 group-title="Lista 04",IMAGEN
+http://tecnotv.club/sep14/smartv2.php?c=96559
+#EXTINF:-1 group-title="Lista 04",ADN 40
+http://tecnotv.club/sep14/smartv2.php?c=6585
+#EXTINF:-1 group-title="Lista 04",FORO TV
+http://tecnotv.club/sep14/smartv2.php?c=6600
+#EXTINF:-1 group-title="Lista 04",RT ESPAÑOL
+http://tecnotv.club/sep14/smartv2.php?c=96583
+#EXTINF:-1 group-title="Lista 04",CONTENIDO INFANTIL
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=e6n7j3xwpktipr4&lchId=1973&format=HLS
+#EXTINF:-1 group-title="Lista 04",ESPN EXTRA
+http://tecnotv.club/sep14/smartv2.php?c=928
+#EXTINF:-1 group-title="Lista 04",ESPN 2
+http://tecnotv.club/sep14/smartv2.php?c=6255
+#EXTINF:-1 group-title="Lista 04",ESPN 3
+http://tecnotv.club/sep14/smartv2.php?c=6250
+#EXTINF:-1 group-title="Lista 04",DIRECTV SPORTS +
+http://tecnotv.club/sep14/smartv2.php?c=942
+#EXTINF:-1 group-title="Lista 04",FOX SPORTS PREMIUM
+http://tecnotv.club/sep14/smartv2.php?c=945
+#EXTINF:-1 group-title="Lista 04",GOL PERU
+http://tecnotv.club/sep14/smartv2.php?c=83841
+#EXTINF:-1 group-title="Lista 04",BEIN Ñ
+http://tecnotv.club/sep14/smartv2.php?c=933
+#EXTINF:-1 group-title="Lista 04",ECDF
+http://tecnotv.club/sep14/smartv2.php?c=96461
+#EXTINF:-1 group-title="Lista 04",TNT SPORTS HD
+http://tecnotv.club/sep14/smartv2.php?c=6269
+#EXTINF:-1 group-title="Lista 04",EUROSPORTS 1
+http://tecnotv.club/sep14/smartv2.php?c=914
+#EXTINF:-1 group-title="Lista 04",DEPORTES
+http://tecnotv.club/sep14/smartv2.php?c=102476
+#EXTINF:-1 group-title="Lista 04",TIGO SPORTS 2
+http://tecnotv.club/sep14/smartv2.php?c=95210
+#EXTINF:-1 group-title="Lista 04",TIGO SPORTS 3
+http://tecnotv.club/sep14/smartv2.php?c=95211
+#EXTINF:-1 group-title="Lista 04",AFIZZIONADOS
+http://tecnotv.club/sep14/smartv2.php?c=83860
+#EXTINF:-1 group-title="Lista 04",CLARO SPORTS
+http://tecnotv.club/sep14/smartv2.php?c=83862
+#EXTINF:-1 group-title="Lista 04",TD+
+http://tecnotv.club/sep14/smartv2.php?c=87782
+#EXTINF:-1 group-title="Lista 04",SECCION XXX
+http://tecnotv.club/sep14/smartv2.php?c=6263
+#EXTINF:-1 group-title="Lista 04",HIPODROMO CHILE
+http://tecnotv.club/sep14/smartv2.php?c=96532
+#EXTINF:-1 group-title="Lista 04",TNT SPORTS HD CHILE
+http://tecnotv.club/sep14/smartv2.php?c=6266
+#EXTINF:-1 group-title="Lista 04",TyC SPORTS
+http://tecnotv.club/sep14/smartv2.php?c=6267
+#EXTINF:-1 group-title="Lista 04",TNT SPORTS 2 HD
+http://tecnotv.club/sep14/smartv2.php?c=6813
+#EXTINF:-1 group-title="Lista 04",LOS SIMPSON 24/7
+http://tecnotv.club/sep14/smartv2.php?c=948
 
-#EXTINF:-1 group-title="TV PREMIUM",A&E
-http://tecnotv.club/sep0421/smartv2.php?c=a0dc
-#EXTINF:-1 group-title="TV PREMIUM",AMC
-http://tecnotv.club/sep0421/smartv2.php?c=a0b5
-#EXTINF:-1 group-title="TV PREMIUM",ANTV
-http://tecnotv.club/sep0421/smartv2.php?c=a08h
-#EXTINF:-1 group-title="TV PREMIUM",AXN
-http://tecnotv.club/sep0421/smartv2.php?c=a071
-#EXTINF:-1 group-title="TV PREMIUM",Animal Planet
-http://tecnotv.club/sep0421/smartv2.php?c=a0ap
-#EXTINF:-1 group-title="TV PREMIUM",Antena 3
-http://tecnotv.club/sep0421/smartv2.php?c=a09u
-#EXTINF:-1 group-title="TV PREMIUM",Baby TV
-http://tecnotv.club/sep0421/smartv2.php?c=a0cx
-#EXTINF:-1 group-title="TV PREMIUM",Boomerang
-http://tecnotv.club/sep0421/smartv2.php?c=a08p
-#EXTINF:-1 group-title="TV PREMIUM",CHV
-http://tecnotv.club/sep0421/smartv2.php?c=a07g
-#EXTINF:-1 group-title="TV PREMIUM",CNN Chile
-http://tecnotv.club/sep0421/smartv2.php?c=a09t
-#EXTINF:-1 group-title="TV PREMIUM",CNN EspaÃ¦ol
-http://tecnotv.club/sep0421/smartv2.php?c=a0d3
-#EXTINF:-1 group-title="TV PREMIUM",CNN International
-http://tecnotv.club/sep0421/smartv2.php?c=a0d5
-#EXTINF:-1 group-title="TV PREMIUM",CableNoticias
-http://tecnotv.club/sep0421/smartv2.php?c=a0cc
-#EXTINF:-1 group-title="TV PREMIUM",Canal I
-http://tecnotv.club/sep0421/smartv2.php?c=a09j
-#EXTINF:-1 group-title="TV PREMIUM",Canal Institucional
-http://tecnotv.club/sep0421/smartv2.php?c=a0ag
-#EXTINF:-1 group-title="TV PREMIUM",Canal TRO
-http://tecnotv.club/sep0421/smartv2.php?c=a0aj
-#EXTINF:-1 group-title="TV PREMIUM",Caracol Internacional
-http://tecnotv.club/sep0421/smartv2.php?c=a06w
-#EXTINF:-1 group-title="TV PREMIUM",Cartoon Network
-http://tecnotv.club/sep0421/smartv2.php?c=a09l
-#EXTINF:-1 group-title="TV PREMIUM",Cinecanal
-http://tecnotv.club/sep0421/smartv2.php?c=a07x
-#EXTINF:-1 group-title="TV PREMIUM",Cinemax
-http://tecnotv.club/sep0421/smartv2.php?c=a08z
-#EXTINF:-1 group-title="TV PREMIUM",Comedy Central
-http://tecnotv.club/sep0421/smartv2.php?c=a0b1
-#EXTINF:-1 group-title="TV PREMIUM",Conciencia
-http://tecnotv.club/sep0421/smartv2.php?c=a08l
-#EXTINF:-1 group-title="TV PREMIUM",CristovisiÃ°n
-http://tecnotv.club/sep0421/smartv2.php?c=a0aw
-#EXTINF:-1 group-title="TV PREMIUM",DW (Deutsch +)
-http://tecnotv.club/sep0421/smartv2.php?c=a0d8
-#EXTINF:-1 group-title="TV PREMIUM",De PelÅ¦cula
-http://tecnotv.club/sep0421/smartv2.php?c=a0cp
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a0aq
-#EXTINF:-1 group-title="TV PREMIUM",Discovery H&H
-http://tecnotv.club/sep0421/smartv2.php?c=a06p
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids
-http://tecnotv.club/sep0421/smartv2.php?c=a0am
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Science
-http://tecnotv.club/sep0421/smartv2.php?c=a090
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Turbo
-http://tecnotv.club/sep0421/smartv2.php?c=a0cn
-#EXTINF:-1 group-title="TV PREMIUM",Disney Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a0c3
-#EXTINF:-1 group-title="TV PREMIUM",Disney Junior
-http://tecnotv.club/sep0421/smartv2.php?c=a06n
-#EXTINF:-1 group-title="TV PREMIUM",Disney Xd
-http://tecnotv.club/sep0421/smartv2.php?c=a0c4
-#EXTINF:-1 group-title="TV PREMIUM",E! Entertainment TV
-http://tecnotv.club/sep0421/smartv2.php?c=a09p
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://tecnotv.club/sep0421/smartv2.php?c=a09v
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://tecnotv.club/sep0421/smartv2.php?c=a08u
-#EXTINF:-1 group-title="TV PREMIUM",ESPN
-http://tecnotv.club/sep0421/smartv2.php?c=a05y
-#EXTINF:-1 group-title="TV PREMIUM",ESPN 3
-http://tecnotv.club/sep0421/smartv2.php?c=a070
-#EXTINF:-1 group-title="TV PREMIUM",ESPN2
-http://tecnotv.club/sep0421/smartv2.php?c=a09w
-#EXTINF:-1 group-title="TV PREMIUM",ESPN2
-http://tecnotv.club/sep0421/smartv2.php?c=a07s
-#EXTINF:-1 group-title="TV PREMIUM",EWTN
-http://tecnotv.club/sep0421/smartv2.php?c=a06v
-#EXTINF:-1 group-title="TV PREMIUM",El Gourmet
-http://tecnotv.club/sep0421/smartv2.php?c=a0c8
-#EXTINF:-1 group-title="TV PREMIUM",El Trece
-http://tecnotv.club/sep0421/smartv2.php?c=a068
-#EXTINF:-1 group-title="TV PREMIUM",Enlace
-http://tecnotv.club/sep0421/smartv2.php?c=a0b8
-#EXTINF:-1 group-title="TV PREMIUM",Eurochannel
-http://tecnotv.club/sep0421/smartv2.php?c=a0d6
-#EXTINF:-1 group-title="TV PREMIUM",Europa Europa
-http://tecnotv.club/sep0421/smartv2.php?c=a0b6
-#EXTINF:-1 group-title="TV PREMIUM",FANB
-http://tecnotv.club/sep0421/smartv2.php?c=a08m
-#EXTINF:-1 group-title="TV PREMIUM",FOX Sport Ven
-http://tecnotv.club/sep0421/smartv2.php?c=a07t
-#EXTINF:-1 group-title="TV PREMIUM",FX
-http://tecnotv.club/sep0421/smartv2.php?c=a074
-#EXTINF:-1 group-title="TV PREMIUM",FX Movies
-http://tecnotv.club/sep0421/smartv2.php?c=a0ck
-#EXTINF:-1 group-title="TV PREMIUM",Film&Arts
-http://tecnotv.club/sep0421/smartv2.php?c=a0ar
-#EXTINF:-1 group-title="TV PREMIUM",Flashback 70s
-http://tecnotv.club/sep0421/smartv2.php?c=a0bq
-#EXTINF:-1 group-title="TV PREMIUM",Fox News
-http://tecnotv.club/sep0421/smartv2.php?c=a0a7
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 2
-http://tecnotv.club/sep0421/smartv2.php?c=a08t
-#EXTINF:-1 group-title="TV PREMIUM",Fox Sports 3
-http://tecnotv.club/sep0421/smartv2.php?c=a0db
-#EXTINF:-1 group-title="TV PREMIUM",Glitz*
-http://tecnotv.club/sep0421/smartv2.php?c=a07m
-#EXTINF:-1 group-title="TV PREMIUM",Globovision
-http://tecnotv.club/sep0421/smartv2.php?c=a0bx
-#EXTINF:-1 group-title="TV PREMIUM",Golden
-http://tecnotv.club/sep0421/smartv2.php?c=a093
-#EXTINF:-1 group-title="TV PREMIUM",Golden Edge
-http://tecnotv.club/sep0421/smartv2.php?c=a07w
-#EXTINF:-1 group-title="TV PREMIUM",Golf Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a07b
-#EXTINF:-1 group-title="TV PREMIUM",HBO
-http://tecnotv.club/sep0421/smartv2.php?c=a062
-#EXTINF:-1 group-title="TV PREMIUM",HBO Family
-http://tecnotv.club/sep0421/smartv2.php?c=a0dh
-#EXTINF:-1 group-title="TV PREMIUM",HBO MUNDI
-http://tecnotv.club/sep0421/smartv2.php?c=a0cm
-#EXTINF:-1 group-title="TV PREMIUM",HBO Plus
-http://tecnotv.club/sep0421/smartv2.php?c=a0dj
-#EXTINF:-1 group-title="TV PREMIUM",HBO SD
-http://tecnotv.club/sep0421/smartv2.php?c=a0a1
-#EXTINF:-1 group-title="TV PREMIUM",HBO Signature
-http://tecnotv.club/sep0421/smartv2.php?c=a0dk
-#EXTINF:-1 group-title="TV PREMIUM",HBO XTREME
-http://tecnotv.club/sep0421/smartv2.php?c=a0di
-#EXTINF:-1 group-title="TV PREMIUM",HBO2
-http://tecnotv.club/sep0421/smartv2.php?c=a063
-#EXTINF:-1 group-title="TV PREMIUM",HGTV
-http://tecnotv.club/sep0421/smartv2.php?c=a0c6
-#EXTINF:-1 group-title="TV PREMIUM",HTV
-http://tecnotv.club/sep0421/smartv2.php?c=a0ca
-#EXTINF:-1 group-title="TV PREMIUM",History 2
-http://tecnotv.club/sep0421/smartv2.php?c=a09n
-#EXTINF:-1 group-title="TV PREMIUM",History Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a06o
-#EXTINF:-1 group-title="TV PREMIUM",Hola TV
-http://tecnotv.club/sep0421/smartv2.php?c=a0at
-#EXTINF:-1 group-title="TV PREMIUM",I SAT
-http://tecnotv.club/sep0421/smartv2.php?c=a08x
-#EXTINF:-1 group-title="TV PREMIUM",ID - Investigation Discovery
-http://tecnotv.club/sep0421/smartv2.php?c=a073
-#EXTINF:-1 group-title="TV PREMIUM",Las Estrellas
-http://tecnotv.club/sep0421/smartv2.php?c=a0c9
-#EXTINF:-1 group-title="TV PREMIUM",Latina
-http://tecnotv.club/sep0421/smartv2.php?c=a05i
-#EXTINF:-1 group-title="TV PREMIUM",Latino Tropical
-http://tecnotv.club/sep0421/smartv2.php?c=a0bo
-#EXTINF:-1 group-title="TV PREMIUM",Lifetime
-http://tecnotv.club/sep0421/smartv2.php?c=a0ch
-#EXTINF:-1 group-title="TV PREMIUM",MEGA
-http://tecnotv.club/sep0421/smartv2.php?c=a07f
-#EXTINF:-1 group-title="TV PREMIUM",MTV
-http://tecnotv.club/sep0421/smartv2.php?c=a0d2
-#EXTINF:-1 group-title="TV PREMIUM",Meridiano
-http://tecnotv.club/sep0421/smartv2.php?c=a08j
-#EXTINF:-1 group-title="TV PREMIUM",Movistar Series
-http://tecnotv.club/sep0421/smartv2.php?c=a0ae
-#EXTINF:-1 group-title="TV PREMIUM",MÃ†sChic
-http://tecnotv.club/sep0421/smartv2.php?c=a0a6
-#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Kids
-http://tecnotv.club/sep0421/smartv2.php?c=a0ao
-#EXTINF:-1 group-title="TV PREMIUM",Nat Geo Wild
-http://tecnotv.club/sep0421/smartv2.php?c=a09o
-#EXTINF:-1 group-title="TV PREMIUM",National Geographic
-http://tecnotv.club/sep0421/smartv2.php?c=a09m
-#EXTINF:-1 group-title="TV PREMIUM",Nick Jr
-http://tecnotv.club/sep0421/smartv2.php?c=a067
-#EXTINF:-1 group-title="TV PREMIUM",Nickelodeon
-http://tecnotv.club/sep0421/smartv2.php?c=a08o
-#EXTINF:-1 group-title="TV PREMIUM",Nuestra Tele
-http://tecnotv.club/sep0421/smartv2.php?c=a0co
-#EXTINF:-1 group-title="TV PREMIUM",PLUSTV
-http://tecnotv.club/sep0421/smartv2.php?c=a05w
-#EXTINF:-1 group-title="TV PREMIUM",Paramount Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a08y
-#EXTINF:-1 group-title="TV PREMIUM",PerÅ“ MÃ†gico
-http://tecnotv.club/sep0421/smartv2.php?c=a05x
-#EXTINF:-1 group-title="TV PREMIUM",Playboy
-http://tecnotv.club/sep0421/smartv2.php?c=a0a9
-#EXTINF:-1 group-title="TV PREMIUM",Poolside
-http://tecnotv.club/sep0421/smartv2.php?c=a0bp
-#EXTINF:-1 group-title="TV PREMIUM",Pop Classics
-http://tecnotv.club/sep0421/smartv2.php?c=a0bk
-#EXTINF:-1 group-title="TV PREMIUM",RAI
-http://tecnotv.club/sep0421/smartv2.php?c=a0d7
-#EXTINF:-1 group-title="TV PREMIUM",RED TelevisiÃ°n
-http://tecnotv.club/sep0421/smartv2.php?c=a06k
-#EXTINF:-1 group-title="TV PREMIUM",Reggaeton
-http://tecnotv.club/sep0421/smartv2.php?c=a0bt
-#EXTINF:-1 group-title="TV PREMIUM",Rock en EspaÃ¦ol
-http://tecnotv.club/sep0421/smartv2.php?c=a0bs
-#EXTINF:-1 group-title="TV PREMIUM",Romance Latino
-http://tecnotv.club/sep0421/smartv2.php?c=a0bn
-#EXTINF:-1 group-title="TV PREMIUM",STAR ACTION
-http://tecnotv.club/sep0421/smartv2.php?c=a064
-#EXTINF:-1 group-title="TV PREMIUM",STAR CHANNEL
-http://tecnotv.club/sep0421/smartv2.php?c=a061
-#EXTINF:-1 group-title="TV PREMIUM",STAR CINEMA
-http://tecnotv.club/sep0421/smartv2.php?c=a065
-#EXTINF:-1 group-title="TV PREMIUM",STAR CLASSICS
-http://tecnotv.club/sep0421/smartv2.php?c=a0a3
-#EXTINF:-1 group-title="TV PREMIUM",STAR COMEDY
-http://tecnotv.club/sep0421/smartv2.php?c=a066
-#EXTINF:-1 group-title="TV PREMIUM",STAR FUN
-http://tecnotv.club/sep0421/smartv2.php?c=a0b7
-#EXTINF:-1 group-title="TV PREMIUM",STAR HITS
-http://tecnotv.club/sep0421/smartv2.php?c=a0a2
-#EXTINF:-1 group-title="TV PREMIUM",STAR LIFE
-http://tecnotv.club/sep0421/smartv2.php?c=a0as
-#EXTINF:-1 group-title="TV PREMIUM",STAR SERIES E
-http://tecnotv.club/sep0421/smartv2.php?c=a07y
-#EXTINF:-1 group-title="TV PREMIUM",STAR SERIES O
-http://tecnotv.club/sep0421/smartv2.php?c=a07z
-#EXTINF:-1 group-title="TV PREMIUM",Sextreme
-http://tecnotv.club/sep0421/smartv2.php?c=a078
-#EXTINF:-1 group-title="TV PREMIUM",SeÃ¦al Colombia
-http://tecnotv.club/sep0421/smartv2.php?c=a0bz
-#EXTINF:-1 group-title="TV PREMIUM",Sony
-http://tecnotv.club/sep0421/smartv2.php?c=a09y
-#EXTINF:-1 group-title="TV PREMIUM",Space
-http://tecnotv.club/sep0421/smartv2.php?c=a0cj
-#EXTINF:-1 group-title="TV PREMIUM",Studio Universal
-http://tecnotv.club/sep0421/smartv2.php?c=a0ci
-#EXTINF:-1 group-title="TV PREMIUM",Sun Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a0d1
-#EXTINF:-1 group-title="TV PREMIUM",SyFy
-http://tecnotv.club/sep0421/smartv2.php?c=a0a0
-#EXTINF:-1 group-title="TV PREMIUM",TBS Very Funny
-http://tecnotv.club/sep0421/smartv2.php?c=a0a8
-#EXTINF:-1 group-title="TV PREMIUM",TCM
-http://tecnotv.club/sep0421/smartv2.php?c=a08w
-#EXTINF:-1 group-title="TV PREMIUM",TLC
-http://tecnotv.club/sep0421/smartv2.php?c=a0cz
-#EXTINF:-1 group-title="TV PREMIUM",TLT
-http://tecnotv.club/sep0421/smartv2.php?c=a0by
-#EXTINF:-1 group-title="TV PREMIUM",TNT
-http://tecnotv.club/sep0421/smartv2.php?c=a0de
-#EXTINF:-1 group-title="TV PREMIUM",TNT Series
-http://tecnotv.club/sep0421/smartv2.php?c=a0df
-#EXTINF:-1 group-title="TV PREMIUM",TNT_2
-http://tecnotv.club/sep0421/smartv2.php?c=a0b4
-#EXTINF:-1 group-title="TV PREMIUM",TV EPACO
-http://tecnotv.club/sep0421/smartv2.php?c=a08k
-#EXTINF:-1 group-title="TV PREMIUM",TV FAMILIA
-http://tecnotv.club/sep0421/smartv2.php?c=a08d
-#EXTINF:-1 group-title="TV PREMIUM",TV PERU
-http://tecnotv.club/sep0421/smartv2.php?c=a05n
-#EXTINF:-1 group-title="TV PREMIUM",TV+
-http://tecnotv.club/sep0421/smartv2.php?c=a07d
-#EXTINF:-1 group-title="TV PREMIUM",TVE
-http://tecnotv.club/sep0421/smartv2.php?c=a06u
-#EXTINF:-1 group-title="TV PREMIUM",TVES
-http://tecnotv.club/sep0421/smartv2.php?c=a08f
-#EXTINF:-1 group-title="TV PREMIUM",Tango
-http://tecnotv.club/sep0421/smartv2.php?c=a0bb
-#EXTINF:-1 group-title="TV PREMIUM",Teleantioquia
-http://tecnotv.club/sep0421/smartv2.php?c=a0cu
-#EXTINF:-1 group-title="TV PREMIUM",Telecafe
-http://tecnotv.club/sep0421/smartv2.php?c=a0ak
-#EXTINF:-1 group-title="TV PREMIUM",Telecanal
-http://tecnotv.club/sep0421/smartv2.php?c=a09i
-#EXTINF:-1 group-title="TV PREMIUM",Telecaribe
-http://tecnotv.club/sep0421/smartv2.php?c=a0ai
-#EXTINF:-1 group-title="TV PREMIUM",TelefÃ˜
-http://tecnotv.club/sep0421/smartv2.php?c=a0cd
-#EXTINF:-1 group-title="TV PREMIUM",Teleislas
-http://tecnotv.club/sep0421/smartv2.php?c=a08n
-#EXTINF:-1 group-title="TV PREMIUM",Telemundo
-http://tecnotv.club/sep0421/smartv2.php?c=a05t
-#EXTINF:-1 group-title="TV PREMIUM",Telenovelas
-http://tecnotv.club/sep0421/smartv2.php?c=a079
-#EXTINF:-1 group-title="TV PREMIUM",Telepacifico
-http://tecnotv.club/sep0421/smartv2.php?c=a0ct
-#EXTINF:-1 group-title="TV PREMIUM",Telesur
-http://tecnotv.club/sep0421/smartv2.php?c=a0d9
-#EXTINF:-1 group-title="TV PREMIUM",Teletrak
-http://tecnotv.club/sep0421/smartv2.php?c=a07r
-#EXTINF:-1 group-title="TV PREMIUM",Televen
-http://tecnotv.club/sep0421/smartv2.php?c=a0af
-#EXTINF:-1 group-title="TV PREMIUM",The Chill Lounge
-http://tecnotv.club/sep0421/smartv2.php?c=a0bm
-#EXTINF:-1 group-title="TV PREMIUM",Tooncast
-http://tecnotv.club/sep0421/smartv2.php?c=a0dm
-#EXTINF:-1 group-title="TV PREMIUM",Travel and Living Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a0d0
-#EXTINF:-1 group-title="TV PREMIUM",Tru TV
-http://tecnotv.club/sep0421/smartv2.php?c=a0dd
-#EXTINF:-1 group-title="TV PREMIUM",VALE TV
-http://tecnotv.club/sep0421/smartv2.php?c=a08e
-#EXTINF:-1 group-title="TV PREMIUM",VH1 Megahits
-http://tecnotv.club/sep0421/smartv2.php?c=a0au
-#EXTINF:-1 group-title="TV PREMIUM",Venevision Plus
-http://tecnotv.club/sep0421/smartv2.php?c=a05s
-#EXTINF:-1 group-title="TV PREMIUM",VenevisiÃ°n
-http://tecnotv.club/sep0421/smartv2.php?c=a08c
-#EXTINF:-1 group-title="TV PREMIUM",Venezolana de TelevisiÃ°n
-http://tecnotv.club/sep0421/smartv2.php?c=a08i
-#EXTINF:-1 group-title="TV PREMIUM",Venus
-http://tecnotv.club/sep0421/smartv2.php?c=a077
-#EXTINF:-1 group-title="TV PREMIUM",Via X
-http://tecnotv.club/sep0421/smartv2.php?c=a07j
-#EXTINF:-1 group-title="TV PREMIUM",Vive
-http://tecnotv.club/sep0421/smartv2.php?c=a08g
-#EXTINF:-1 group-title="TV PREMIUM",WOBI
-http://tecnotv.club/sep0421/smartv2.php?c=a069
-#EXTINF:-1 group-title="TV PREMIUM",Warner Channel
-http://tecnotv.club/sep0421/smartv2.php?c=a060
-#EXTINF:-1 group-title="TV PREMIUM",Y2K
-http://tecnotv.club/sep0421/smartv2.php?c=a0br
-#EXTINF:-1 group-title="TV PREMIUM",Zona Latina
-http://tecnotv.club/sep0421/smartv2.php?c=a07i
+
+#EXTINF:-1 group-title="DEPORTES",AZTECA UNO MX
+http://tecnotv.club/sep14/sport.php?c=aztecauno
+#EXTINF:-1 group-title="DEPORTES",CANAL 2 MX
+http://tecnotv.club/sep14/sport.php?c=eldos
+#EXTINF:-1 group-title="DEPORTES",CANAL 5 MX
+http://tecnotv.club/sep14/sport.php?c=elcinco
+#EXTINF:-1 group-title="DEPORTES",AZTECA 7 MX
+http://tecnotv.club/sep14/sport.php?c=azteca7
+#EXTINF:-1 group-title="DEPORTES",NUEVE
+http://tecnotv.club/sep14/sport.php?c=elnueve
+#EXTINF:-1 group-title="DEPORTES",IMAGEN TV
+http://tecnotv.club/sep14/sport.php?c=imagentv
+#EXTINF:-1 group-title="DEPORTES",STAR ACTION
+http://tecnotv.club/sep14/sport.php?c=staraction
+#EXTINF:-1 group-title="DEPORTES",SPACE
+http://tecnotv.club/sep14/sport.php?c=space
+#EXTINF:-1 group-title="DEPORTES",ADRENALINA
+http://tecnotv.club/sep14/sport.php?c=adrenalina
+#EXTINF:-1 group-title="DEPORTES",AFIZZIONADOS
+http://tecnotv.club/sep14/sport.php?c=afizzionados
+#EXTINF:-1 group-title="DEPORTES",AyM Sports
+http://tecnotv.club/sep14/sport.php?c=aymsports
+#EXTINF:-1 group-title="DEPORTES",BASKET AMERICAS
+http://tecnotv.club/sep14/sport.php?c=basket
+#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
+http://tecnotv.club/sep14/sport.php?c=beines
+#EXTINF:-1 group-title="DEPORTES",BEIN US HD
+http://tecnotv.club/sep14/sport.php?c=beinhd
+#EXTINF:-1 group-title="DEPORTES",DIRECTV SPORTS
+http://tecnotv.club/sep14/sport.php?c=directv
+#EXTINF:-1 group-title="DEPORTES",DIRECTV 2
+http://tecnotv.club/sep14/sport.php?c=directv2
+#EXTINF:-1 group-title="DEPORTES",CLARO SPORTS
+http://tecnotv.club/sep14/sport.php?c=clarosports
+#EXTINF:-1 group-title="DEPORTES",ESPN Deportes
+http://tecnotv.club/sep14/sport.php?c=espndep
+#EXTINF:-1 group-title="DEPORTES",ESPN 1 MX
+http://tecnotv.club/sep14/sport.php?c=espn1-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 MX
+http://tecnotv.club/sep14/sport.php?c=espn2-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 MX
+http://tecnotv.club/sep14/sport.php?c=espn3-mx
+#EXTINF:-1 group-title="DEPORTES",ESPN EXTRA
+http://tecnotv.club/sep14/sport.php?c=espnextra-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 1 MX
+http://tecnotv.club/sep14/sport.php?c=foxsports1-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 MX
+http://tecnotv.club/sep14/sport.php?c=foxsports2-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 MX
+http://tecnotv.club/sep14/sport.php?c=foxsports3-mx
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS PREMIUM
+http://tecnotv.club/sep14/sport.php?c=foxsportsp
+#EXTINF:-1 group-title="DEPORTES",GALAVISION
+http://tecnotv.club/sep14/sport.php?c=galavision
+#EXTINF:-1 group-title="DEPORTES",GOL PERU
+http://tecnotv.club/sep14/sport.php?c=golperu
+#EXTINF:-1 group-title="DEPORTES",GOLTV
+http://tecnotv.club/sep14/sport.php?c=goltv
+#EXTINF:-1 group-title="DEPORTES",GOLF CHANNEL
+http://tecnotv.club/sep14/sport.php?c=golf
+#EXTINF:-1 group-title="DEPORTES",HAVOC
+http://tecnotv.club/sep14/sport.php?c=havoc
+#EXTINF:-1 group-title="DEPORTES",NFL NETWORK
+http://tecnotv.club/sep14/sport.php?c=nfl
+#EXTINF:-1 group-title="DEPORTES",LAS Deportes
+http://tecnotv.club/sep14/sport.php?c=las
+#EXTINF:-1 group-title="DEPORTES",LALIGA
+http://tecnotv.club/sep14/sport.php?c=laliga
+#EXTINF:-1 group-title="DEPORTES",M LALIGA
+http://tecnotv.club/sep14/sport.php?c=mlaliga
+#EXTINF:-1 group-title="DEPORTES",M LIGA DE CAMPEONES
+http://tecnotv.club/sep14/sport.php?c=mligadec
+#EXTINF:-1 group-title="DEPORTES",TELEMUNDO
+http://tecnotv.club/sep14/sport.php?c=telemundo
+#EXTINF:-1 group-title="DEPORTES",TUDN MX
+http://tecnotv.club/sep14/sport.php?c=tudn-mx
+#EXTINF:-1 group-title="DEPORTES",TUDN US
+http://tecnotv.club/sep14/sport.php?c=tudn-us
+#EXTINF:-1 group-title="DEPORTES",TVC Deportes
+http://tecnotv.club/sep14/sport.php?c=tvcdep-mx
+#EXTINF:-1 group-title="DEPORTES",TyC SPORTS
+http://tecnotv.club/sep14/sport.php?c=tycsports
+#EXTINF:-1 group-title="DEPORTES",UNIMAS
+http://tecnotv.club/sep14/sport.php?c=unimas
+#EXTINF:-1 group-title="DEPORTES",UNIVERSO
+http://tecnotv.club/sep14/sport.php?c=universo
+#EXTINF:-1 group-title="DEPORTES",NBC SPORTS NET
+http://tecnotv.club/sep14/sport.php?c=nbcsn
+#EXTINF:-1 group-title="DEPORTES",WIN SPORTS
+http://tecnotv.club/sep14/sport.php?c=winsports
+#EXTINF:-1 group-title="DEPORTES",WIN SPORTS PLUS
+http://tecnotv.club/sep14/sport.php?c=winplus
+#EXTINF:-1 group-title="DEPORTES",FIGHT TIME
+http://tecnotv.club/sep14/sport.php?c=fight
+#EXTINF:-1 group-title="DEPORTES",UFC
+http://tecnotv.club/sep14/sport.php?c=ufc
+#EXTINF:-1 group-title="DEPORTES",WWE
+http://tecnotv.club/sep14/sport.php?c=wwe
+
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg" group-title="PLUTO TV", Pluto Tv
+http://tecnotv.club/sep14/plutotv.php?c=5e793a7cfbdf780007f7eb75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/featuredImage.jpg" group-title="PLUTO TV", Cine Suspenso
+http://tecnotv.club/sep14/plutotv.php?c=5ddc4e8bcbb9010009b4e84f
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/featuredImage.jpg" group-title="PLUTO TV", Cine Accion
+http://tecnotv.club/sep14/plutotv.php?c=5dcb62e63d4d8f0009f36881
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg" group-title="PLUTO TV", Estrellas en Accion
+http://tecnotv.club/sep14/plutotv.php?c=5e972a21ad709d00074195ba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg" group-title="PLUTO TV", Cine Comedia
+http://tecnotv.club/sep14/plutotv.php?c=5dcdde78f080d900098550e4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/featuredImage.jpg" group-title="PLUTO TV", Cine Terror
+http://tecnotv.club/sep14/plutotv.php?c=5dcddf1ed95e740009fef7ab
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/featuredImage.jpg" group-title="PLUTO TV", Viajes
+http://tecnotv.club/sep14/plutotv.php?c=5dcddfbdb7cf0e0009ae09ea
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/featuredImage.jpg" group-title="PLUTO TV", Cine Drama
+http://tecnotv.club/sep14/plutotv.php?c=5dcddfcb229eff00091b6bdf
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/featuredImage.jpg" group-title="PLUTO TV", Cocina
+http://tecnotv.club/sep14/plutotv.php?c=5dcde0657444a40009cd2422
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg" group-title="PLUTO TV", Deportes
+http://tecnotv.club/sep14/plutotv.php?c=5dcde07af1c85b0009b18651
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/featuredImage.jpg" group-title="PLUTO TV", Novelas
+http://tecnotv.club/sep14/plutotv.php?c=5dcde0cc2efd2700090b7ff4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg" group-title="PLUTO TV", Series
+http://tecnotv.club/sep14/plutotv.php?c=5dcde1317578340009b751d0
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg" group-title="PLUTO TV", Anime
+http://tecnotv.club/sep14/plutotv.php?c=5dcde17bf6591d0009839e02
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/featuredImage.jpg" group-title="PLUTO TV", Reality
+http://tecnotv.club/sep14/plutotv.php?c=5dcde197f6591d0009839e04
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/featuredImage.jpg" group-title="PLUTO TV", Investiga
+http://tecnotv.club/sep14/plutotv.php?c=5dcde27ffae9520009c0c75a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/featuredImage.jpg" group-title="PLUTO TV", Junior
+http://tecnotv.club/sep14/plutotv.php?c=5dcde2ac4bc6c500094ab45b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg" group-title="PLUTO TV", Cine Estelar
+http://tecnotv.club/sep14/plutotv.php?c=5dcde437229eff00091b6c30
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/featuredImage.jpg" group-title="PLUTO TV", Hogar
+http://tecnotv.club/sep14/plutotv.php?c=5dd6ab8056beb000091fc6b6
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/featuredImage.jpg" group-title="PLUTO TV", Competencias
+http://tecnotv.club/sep14/plutotv.php?c=5dd6d935d000120009bc1132
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/featuredImage.jpg" group-title="PLUTO TV", Kids
+http://tecnotv.club/sep14/plutotv.php?c=5dd6dae8ce788b0009eaf77b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/featuredImage.jpg" group-title="PLUTO TV", Velocidad
+http://tecnotv.club/sep14/plutotv.php?c=5dd6dc7480e3550009133d4a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg" group-title="PLUTO TV", Cine Familia
+http://tecnotv.club/sep14/plutotv.php?c=5dd6ddb30a1d8a000908ed4c
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/featuredImage.jpg" group-title="PLUTO TV", Teen
+http://tecnotv.club/sep14/plutotv.php?c=5dd6de52b9914200091f047a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg" group-title="PLUTO TV", Cine Romance
+http://tecnotv.club/sep14/plutotv.php?c=5dd7ea2aeab5230009986735
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/featuredImage.jpg" group-title="PLUTO TV", Animales
+http://tecnotv.club/sep14/plutotv.php?c=5dd834c66fe2ca0009303b8d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/featuredImage.jpg" group-title="PLUTO TV", Series Latinas
+http://tecnotv.club/sep14/plutotv.php?c=5dd837642c6e9300098ad484
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/featuredImage.jpg" group-title="PLUTO TV", Naturaleza
+http://tecnotv.club/sep14/plutotv.php?c=5dd85eac039bba0009e86d1d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/featuredImage.jpg" group-title="PLUTO TV", Nick Clasico
+http://tecnotv.club/sep14/plutotv.php?c=5ddd7c348520b40009c347e2
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/featuredImage.jpg" group-title="PLUTO TV", Nick Jr Club
+http://tecnotv.club/sep14/plutotv.php?c=5ddd7cb2cbb9010009b4fe32
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/featuredImage.jpg" group-title="PLUTO TV", Degrassi
+http://tecnotv.club/sep14/plutotv.php?c=5de58ef515635d00091f605d
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/featuredImage.jpg" group-title="PLUTO TV", Series Retro
+http://tecnotv.club/sep14/plutotv.php?c=5de802659167b10009e7deba
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/featuredImage.jpg" group-title="PLUTO TV", Mtv Classic
+http://tecnotv.club/sep14/plutotv.php?c=5de91b7ea86ee60009d89e75
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/featuredImage.jpg" group-title="PLUTO TV", Telefe clasico
+http://tecnotv.club/sep14/plutotv.php?c=5de91cf02fc07c0009910465
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg" group-title="PLUTO TV", Cine
+http://tecnotv.club/sep14/plutotv.php?c=5defde6d6c07b50009cf0757
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/featuredImage.jpg" group-title="PLUTO TV", MasterChef
+http://tecnotv.club/sep14/plutotv.php?c=5e3ddbd27091820009f86dd9
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/featuredImage.jpg" group-title="PLUTO TV", Futbol para Fans
+http://tecnotv.club/sep14/plutotv.php?c=5e3ddd1a3ef73b00091d5779
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/featuredImage.jpg" group-title="PLUTO TV", Minuto para Ganar
+http://tecnotv.club/sep14/plutotv.php?c=5e46e64dc73db400094b5f0b
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/featuredImage.jpg" group-title="PLUTO TV", Los archivos del FBI
+http://tecnotv.club/sep14/plutotv.php?c=5e67d41b93312100076f3fca
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/featuredImage.jpg" group-title="PLUTO TV", BABAR
+http://tecnotv.club/sep14/plutotv.php?c=5e67e20c93312100076f3ffe
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg" group-title="PLUTO TV", Anime Accion
+http://tecnotv.club/sep14/plutotv.php?c=5e6a4d875d7ccf0007cc2cf1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e8f8e7598841d0007bf35b3/featuredImage.jpg" group-title="PLUTO TV", Comedy Central Stand-Up
+http://tecnotv.club/sep14/plutotv.php?c=5e8f8e7598841d0007bf35b3
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="PLUTO TV", Peleas
+http://tecnotv.club/sep14/plutotv.php?c=5e98b0447665f200078caded
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/featuredImage.jpg" group-title="PLUTO TV", The New Detectives
+http://tecnotv.club/sep14/plutotv.php?c=5ea71d48af1d0b0007d837f4
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/featuredImage.jpg" group-title="PLUTO TV", Rugrats Crecidos
+http://tecnotv.club/sep14/plutotv.php?c=5ea7215005d66d0007e8128a
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/featuredImage.jpg" group-title="PLUTO TV", Star Trek
+http://tecnotv.club/sep14/plutotv.php?c=5ec5761aabe4690007f6e047
+
+
+
+#EXTINF:-1 group-title="24/7",POWER RANGERS
+http://tecnotv.club/sep14/24.php?c=303
+#EXTINF:-1 group-title="24/7",ROBOTECH
+http://tecnotv.club/sep14/24.php?c=304
+#EXTINF:-1 group-title="24/7",SAILOR MOON
+http://tecnotv.club/sep14/24.php?c=305
+#EXTINF:-1 group-title="24/7", LOS SIMPSON-
+http://tecnotv.club/sep14/24.php?c=307
+#EXTINF:-1 group-title="24/7",SMALLVILLE
+http://tecnotv.club/sep14/24.php?c=308
+#EXTINF:-1 group-title="24/7", SOUTH PARK
+http://tecnotv.club/sep14/24.php?c=309
+#EXTINF:-1 group-title="24/7",SPIDER-MAN
+http://tecnotv.club/sep14/24.php?c=310
+#EXTINF:-1 group-title="24/7",STRANGER THINGS
+http://tecnotv.club/sep14/24.php?c=311
+#EXTINF:-1 group-title="24/7",SUPER CAMPEONES
+http://tecnotv.club/sep14/24.php?c=312
+#EXTINF:-1 group-title="24/7",Peliculas de terror
+http://tecnotv.club/sep14/24.php?c=313
+#EXTINF:-1 group-title="24/7",THUNDERCAST
+http://tecnotv.club/sep14/24.php?c=314
+#EXTINF:-1 group-title="24/7", THE WALKING DEAD
+http://tecnotv.club/sep14/24.php?c=315
+#EXTINF:-1 group-title="24/7",BARNY Y SUS AMIGOS
+http://tecnotv.club/sep14/24.php?c=316
+#EXTINF:-1 group-title="24/7",BOB ESPONJA
+http://tecnotv.club/sep14/24.php?c=317
+#EXTINF:-1 group-title="24/7", CAILLOU
+http://tecnotv.club/sep14/24.php?c=318
+#EXTINF:-1 group-title="24/7",EL COYOTE Y CORRE CAMINOS
+http://tecnotv.club/sep14/24.php?c=319
+#EXTINF:-1 group-title="24/7",DESAFIO SOBRE FUEGO LATIN AMERICA
+http://tecnotv.club/sep14/24.php?c=320
+#EXTINF:-1 group-title="24/7",HAPPY TREE FRIENDS
+http://tecnotv.club/sep14/24.php?c=321
+#EXTINF:-1 group-title="24/7",LA RISA EN VACIONES
+http://tecnotv.club/sep14/24.php?c=322
+#EXTINF:-1 group-title="24/7",LAZY TOWN
+http://tecnotv.club/sep14/24.php?c=323
+#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
+http://tecnotv.club/sep14/24.php?c=325
+#EXTINF:-1 group-title="24/7",PEPPA PIG
+http://tecnotv.club/sep14/24.php?c=326
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://tecnotv.club/sep14/24.php?c=327
+#EXTINF:-1 group-title="24/7",HÉROES EN PIJAMAS
+http://tecnotv.club/sep14/24.php?c=328
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 2
+http://tecnotv.club/sep14/24.php?c=329
+#EXTINF:-1 group-title="24/7",Shark Tank México TEP 1
+http://tecnotv.club/sep14/24.php?c=330
+#EXTINF:-1 group-title="24/7",XMEN ANIME
+http://tecnotv.club/sep14/24.php?c=331
+#EXTINF:-1 group-title="24/7",BREAKING  BAD
+http://tecnotv.club/sep14/24.php?c=332
+#EXTINF:-1 group-title="24/7",CABALLEROS DEL ZODIACO
+http://tecnotv.club/sep14/24.php?c=333
+#EXTINF:-1 group-title="24/7",LA CASA DE PAPEL
+http://tecnotv.club/sep14/24.php?c=334
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://tecnotv.club/sep14/24.php?c=335
+#EXTINF:-1 group-title="24/7",EL CHEMA
+http://tecnotv.club/sep14/24.php?c=336
+#EXTINF:-1 group-title="24/7",EL SEÑOR DE LOS CIELOS
+http://tecnotv.club/sep14/24.php?c=337
+#EXTINF:-1 group-title="24/7", CORAJE EL PERRO COBARDE
+http://tecnotv.club/sep14/24.php?c=338
+#EXTINF:-1 group-title="24/7",CSI: MIAMI
+http://tecnotv.club/sep14/24.php?c=339
+#EXTINF:-1 group-title="24/7", CUENTRO GREEM
+http://tecnotv.club/sep14/24.php?c=340
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
+http://tecnotv.club/sep14/24.php?c=341
+#EXTINF:-1 group-title="24/7",ALF
+http://tecnotv.club/sep14/24.php?c=342
+#EXTINF:-1 group-title="24/7",SHERA
+http://tecnotv.club/sep14/24.php?c=343
+#EXTINF:-1 group-title="24/7", DINOSAURIOS 1991
+http://tecnotv.club/sep14/24.php?c=344
+#EXTINF:-1 group-title="24/7", DRAGON BALL 1984
+http://tecnotv.club/sep14/24.php?c=345
+#EXTINF:-1 group-title="24/7",DRAGON BALL GT 1996
+http://tecnotv.club/sep14/24.php?c=346
+#EXTINF:-1 group-title="24/7",DRAGON BALL Z 1989
+http://tecnotv.club/sep14/24.php?c=347
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://tecnotv.club/sep14/24.php?c=348
+#EXTINF:-1 group-title="24/7",EL PATRON DEL MAL 
+http://tecnotv.club/sep14/24.php?c=349
+#EXTINF:-1 group-title="24/7",PELICULAS ESTRENOS 2018
+http://tecnotv.club/sep14/24.php?c=350
+#EXTINF:-1 group-title="24/7",FUTURAMA 1999
+http://tecnotv.club/sep14/24.php?c=351
+#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
+http://tecnotv.club/sep14/24.php?c=352
+#EXTINF:-1 group-title="24/7",He-Man
+http://tecnotv.club/sep14/24.php?c=353
+#EXTINF:-1 group-title="24/7",LA ROSA DE GUADALUPE
+http://tecnotv.club/sep14/24.php?c=354
+#EXTINF:-1 group-title="24/7",LOS LOCOS ADDAMS
+http://tecnotv.club/sep14/24.php?c=355
+#EXTINF:-1 group-title="24/7",LA FAMILIA MONSTERS 1964
+http://tecnotv.club/sep14/24.php?c=356
+#EXTINF:-1 group-title="24/7",LUIS MIGUEL LA SERIE 2018
+http://tecnotv.club/sep14/24.php?c=357
+#EXTINF:-1 group-title="24/7",Malcolm in the middle 2000
+http://tecnotv.club/sep14/24.php?c=358
+#EXTINF:-1 group-title="24/7",AÑOS MARAVILLOSOS 1988
+http://tecnotv.club/sep14/24.php?c=359
+#EXTINF:-1 group-title="24/7",Mazinger Z
+http://tecnotv.club/sep14/24.php?c=360
+#EXTINF:-1 group-title="24/7",Naruto
+http://tecnotv.club/sep14/24.php?c=361
+#EXTINF:-1 group-title="24/7",PINKY y CEREBRO
+http://tecnotv.club/sep14/24.php?c=362
+#EXTINF:-1 group-title="24/7",Pokémon
+http://tecnotv.club/sep14/24.php?c=363
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://lh3.googleusercontent.com/-OYgpvMljozw/Xxy-3V91rJI/AAAAAAAA3WI/1Tr5TT2vvDw63C_2ZoSu5mmvTvZV4UDFACK8BGAsYHg/s0/2020-07-25.png", Ruidos TV
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="12" tvg-name="Awka" tvg-logo="https://lh3.googleusercontent.com/-axPzeNdcvq4/X4JBO2dt35I/AAAAAAAA6UM/X-3kz1phNyUa8lUEEnt_0-Nv3OZdOWACwCK8BGAsYHg/s0/2020-10-10.png", Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="14" tvg-name="Urban TV" tvg-logo="https://lh3.googleusercontent.com/-Xx4DcggZ0tw/X48XMFPv4jI/AAAAAAAA6lY/eTAQj1-UnWUbuTMAHTCiwz9SCJoAlGkTACK8BGAsYHg/s0/2020-10-20.png", Urban TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="3" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://lh3.googleusercontent.com/-jDz1h1TVXnI/X5ct0JQUgpI/AAAAAAAA6xE/yNj4027GRJg_bgCUrLv2_3fDiH4mR9VgACK8BGAsYHg/s0/2020-10-26.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://lh3.googleusercontent.com/-3hmTnW9e-Y4/XbDAlKKxKtI/AAAAAAAArnA/OkLJM2f1T0ktieMaceuBzVPOADwGIf1jACK8BGAsYHg/s0/2019-10-23.png", Carolina TV
+http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="32" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png", Alegria TV
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="37" tvg-name="Canal 38" tvg-logo="https://lh3.googleusercontent.com/-JsoqJma_UaI/Xz5177aFy8I/AAAAAAAA4r8/2mN9M0HRshQfHf1Y1bH_ul9q22z36M41gCK8BGAsYHg/s0/2020-08-20.png", Canal 38
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://lh3.googleusercontent.com/-bNr32YilkwI/X7gHapMZxAI/AAAAAAAA7hc/tUFlaalIohMz1NqYEMuP77GfeYrh7HBNgCK8BGAsYHg/s0/2020-11-20.png", Bajo Cero TV
+https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://lh3.googleusercontent.com/-XR46wyY1FZc/XjomdF00q2I/AAAAAAAAvlY/RR7N6BVs2fQVrkRxUvldT5NN7KN5QGDDACK8BGAsYHg/s0/2020-02-04.png", Corazon Llanero
+https://5fa4275407563.streamlock.net:455/corazonllanerotv/corazonllanerotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="15" tvg-name="Eurolatina TV" tvg-logo="https://lh3.googleusercontent.com/-TM44QoGsUd4/X8bhuroUcNI/AAAAAAAA73Y/o84W1d_xBXA1yInTgmrlcjwFIGrFPTv9ACK8BGAsYHg/s0/2020-12-01.jpg", Eurolatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="23" tvg-name="m2o TV" tvg-logo="https://lh3.googleusercontent.com/-8k2_MMN4_Bc/X0Khp3P6tWI/AAAAAAAA46E/RE_IEG7uAo4WhxuJy71et8N5L1BRugBLgCK8BGAsYHg/s0/2020-08-23.png", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-6Em4fzTLMuU/XjtHLf96jvI/AAAAAAAAvqU/q3DfxbUdSiMDRDB1VBh_3hu3WDK_Nr-egCK8BGAsYHg/s0/2020-02-05.png", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="20" tvg-name="On Radio Ksun" tvg-logo="https://lh3.googleusercontent.com/-MfYGt6f-FNQ/XmWIp_jDYpI/AAAAAAAAwsg/7Yn3jbMYdRIJWMFC3S1YbS2hQT3XBMiOgCK8BGAsYHg/s0/2020-03-08.png", On Radio Ksun
+https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://lh3.googleusercontent.com/-k220wrO7Pks/X2tCElFr0xI/AAAAAAAA50E/JjO-VenWP_cETYy8Se1-2pxO3-vMYU5nACK8BGAsYHg/s0/2020-09-23.png", RCKStudio
+https://rckstudio.duckdns.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://lh3.googleusercontent.com/-t2WD0yOsfvg/XzxnxYhCPPI/AAAAAAAA4oY/qwvkZXM7rAUzOACe0-fSRAQ7_8n6xb5wgCK8BGAsYHg/s0/2020-08-18.png", The Retro Channel
+https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://lh3.googleusercontent.com/-WD49JzHZ9cM/Xrsv-mIjUjI/AAAAAAAA0rs/g_Pgm6hQvNIbp8aHuvQ3H7kEkiu3-M4zQCK8BGAsYHg/s0/2020-05-12.png", TuTv Quillota
+https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", TV vconline.cl
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://lh3.googleusercontent.com/-VPBp6Vk47T4/XnzDahiuJCI/AAAAAAAAxMI/BkejtQRObwcVvsIvYbdi3Yf5UOizKSRoQCK8BGAsYHg/s0/2020-03-26.png", DJ Loncho TV
+https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="28" tvg-name="Natural TV" tvg-logo="https://lh3.googleusercontent.com/-mHhSrfB607c/Xofchq4pWAI/AAAAAAAAxd8/1PbG6O1b6ZU6d_G1AImfuPfCMgxVk9eeACK8BGAsYHg/s0/2020-04-03.png", Natural TV
+http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://5f2eaf2aa4061.streamlock.net/live/smil:telemusica_web.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg", Karibeña TV
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://lh3.googleusercontent.com/-5_iLG_7dCR4/XzxsvrIsFsI/AAAAAAAA4po/GH4DSrK2H5YVOskucpzMxMZeU417wwVvQCK8BGAsYHg/s0/2020-08-18.jpg", Best Cable Music
+https://live.siete.us:1991/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://lh3.googleusercontent.com/-U_hD9IeM-Yg/Xzxsc022kjI/AAAAAAAA4pg/RUNXBNPIglE-sOapeC2XUMQAc6LE9_hOQCK8BGAsYHg/s0/2020-08-18.jpg", Hatun TV
+https://live.siete.us:1991/bestcablehatuntv/bestcablehatuntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://lh3.googleusercontent.com/-ZJanuKXyOcE/XzxsUNGtJ_I/AAAAAAAA4pc/5GU3Dq6vXiEbaMuBLpf_vt_xGy7TSysMQCK8BGAsYHg/s0/2020-08-18.png", Mas Cumbia
+https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="MUSICA" tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://lh3.googleusercontent.com/-G5Yc3uX2FuI/X96fIN48GAI/AAAAAAAA8W0/OiYowGFVndAfjVe7nyNsjtL1OavXrBEkwCK8BGAsYHg/s0/2020-12-19.png", Turbo Mix TV
+http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8?PlaylistM3UCL
